@@ -1,3 +1,4 @@
+# Generate Automatic Script
 from PIL import Image, ImageFont, ImageDraw
 
 # Global Variables
